@@ -29,7 +29,7 @@ This commands includes
 
 ## Program:
 
-# PING COMMAND:
+PING COMMAND:
 
 CLIENT:
 ```
@@ -58,7 +58,7 @@ while True:
     print(s.recv(1024).decode())
 ```
 
-# TRACEROUTE COMMAND:
+TRACEROUTE COMMAND:
 ```
 from scapy.all import* 
 target = ["www.google.com"] 
@@ -67,7 +67,7 @@ print(result,unans)
 ```
 
 ## Output :
-# PING COMMAND:
+PING COMMAND:
 
 CLIENT:
 ![4-1](https://github.com/VPOOJAASREE/4.Execution_of_NetworkCommends/assets/155145525/2f1a61c8-198c-4698-86f4-18dd523d201e)
@@ -75,7 +75,7 @@ CLIENT:
 SERVER:
 ![4-2](https://github.com/VPOOJAASREE/4.Execution_of_NetworkCommends/assets/155145525/ee38335b-f844-4f1a-94fd-aec00c83371b)
 
-# TRACEROUTE COMMAND:
+TRACEROUTE COMMAND:
 ![4-3](https://github.com/VPOOJAASREE/4.Execution_of_NetworkCommends/assets/155145525/291348a5-2130-4e90-a85b-19516c4cf3f6)
 
 
