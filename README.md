@@ -1,6 +1,6 @@
 # 4. EXECUTION OF NETWORK COMMANDS
 
-## Aim : Use of Network commands in Real Time environment
+## Aim : Use of Network commands in Real Time environment.
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
 <BR>
